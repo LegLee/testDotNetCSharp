@@ -1,0 +1,13 @@
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\bin\Debug\netcoreapp3.1\testDotNetCSharp.exe
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\bin\Debug\netcoreapp3.1\testDotNetCSharp.deps.json
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\bin\Debug\netcoreapp3.1\testDotNetCSharp.runtimeconfig.json
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\bin\Debug\netcoreapp3.1\testDotNetCSharp.runtimeconfig.dev.json
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\bin\Debug\netcoreapp3.1\testDotNetCSharp.dll
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\bin\Debug\netcoreapp3.1\testDotNetCSharp.pdb
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\obj\Debug\netcoreapp3.1\testDotNetCSharp.AssemblyInfoInputs.cache
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\obj\Debug\netcoreapp3.1\testDotNetCSharp.AssemblyInfo.cs
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\obj\Debug\netcoreapp3.1\testDotNetCSharp.csproj.CoreCompileInputs.cache
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\obj\Debug\netcoreapp3.1\testDotNetCSharp.dll
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\obj\Debug\netcoreapp3.1\testDotNetCSharp.pdb
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\obj\Debug\netcoreapp3.1\testDotNetCSharp.genruntimeconfig.cache
+D:\.NetProjects\testDotNetCSharp\testDotNetCSharp\obj\Debug\netcoreapp3.1\testDotNetCSharp.csprojAssemblyReference.cache
